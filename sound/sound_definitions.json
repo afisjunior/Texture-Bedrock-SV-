@@ -1,0 +1,187 @@
+{
+  "format_version": "1.20.20",
+  "sound_definitions": {
+    "custom.cgfive": {
+      "category": "music",
+      "__use_legacy_max_distance": "true",
+      "max_distance": 500,
+      "min_distance": 1,
+      "sounds": [
+        {
+          "name": "sounds/custom/cgfive",
+          "volume": 1.0,
+          "load_on_low_memory": true,
+          "stream": true
+        }
+      ]
+    },
+    "custom.pressure": {
+      "category": "music",
+      "__use_legacy_max_distance": "true",
+      "max_distance": 500,
+      "min_distance": 1,
+      "sounds": [
+        {
+          "name": "sounds/custom/pressure",
+          "volume": 1.0,
+          "load_on_low_memory": true,
+          "stream": true
+        }
+      ]
+    },
+    "custom.spooky": {
+      "category": "music",
+      "__use_legacy_max_distance": "true",
+      "max_distance": 500,
+      "min_distance": 1,
+      "sounds": [
+        {
+          "name": "sounds/custom/spooky",
+          "volume": 1.0,
+          "load_on_low_memory": true,
+          "stream": true
+        }
+      ]
+    },
+    "custom.festa": {
+      "category": "music",
+      "__use_legacy_max_distance": "true",
+      "max_distance": 500,
+      "min_distance": 1,
+      "sounds": [
+        {
+          "name": "sounds/custom/festa",
+          "volume": 1.0,
+          "load_on_low_memory": true,
+          "stream": true
+        }
+      ]
+    },
+    "custom.alone": {
+      "category": "music",
+      "__use_legacy_max_distance": "true",
+      "max_distance": 500,
+      "min_distance": 1,
+      "sounds": [
+        {
+          "name": "sounds/custom/alone",
+          "volume": 1.0,
+          "load_on_low_memory": true,
+          "stream": true
+        }
+      ]
+    },
+    "custom.apt": {
+      "category": "music",
+      "__use_legacy_max_distance": "true",
+      "max_distance": 500,
+      "min_distance": 1,
+      "sounds": [
+        {
+          "name": "sounds/custom/apt",
+          "volume": 1.0,
+          "load_on_low_memory": true,
+          "stream": true
+        }
+      ]
+    },
+    "custom.oh": {
+      "category": "music",
+      "__use_legacy_max_distance": "true",
+      "max_distance": 500,
+      "min_distance": 1,
+      "sounds": [
+        {
+          "name": "sounds/custom/oh",
+          "volume": 1.0,
+          "load_on_low_memory": true,
+          "stream": true
+        }
+      ]
+    },
+    "custom.lastb": {
+      "category": "music",
+      "__use_legacy_max_distance": "true",
+      "max_distance": 500,
+      "min_distance": 1,
+      "sounds": [
+        {
+          "name": "sounds/custom/lastb",
+          "volume": 1.0,
+          "load_on_low_memory": true,
+          "stream": true
+        }
+      ]
+    },
+    "custom.grimm": {
+      "category": "music",
+      "__use_legacy_max_distance": "true",
+      "max_distance": 500,
+      "min_distance": 1,
+      "sounds": [
+        {
+          "name": "sounds/custom/grimm",
+          "volume": 1.0,
+          "load_on_low_memory": true,
+          "stream": true
+        }
+      ]
+    },
+    "custom.gods": {
+      "category": "music",
+      "__use_legacy_max_distance": "true",
+      "max_distance": 500,
+      "min_distance": 1,
+      "sounds": [
+        {
+          "name": "sounds/custom/gods",
+          "volume": 1.0,
+          "load_on_low_memory": true,
+          "stream": true
+        }
+      ]
+    },
+    "custom.bik": {
+      "category": "music",
+      "__use_legacy_max_distance": "true",
+      "max_distance": 500,
+      "min_distance": 1,
+      "sounds": [
+        {
+          "name": "sounds/custom/bik",
+          "volume": 1.0,
+          "load_on_low_memory": true,
+          "stream": true
+        }
+      ]
+    },
+    "custom.suicide": {
+      "category": "music",
+      "__use_legacy_max_distance": "true",
+      "max_distance": 500,
+      "min_distance": 1,
+      "sounds": [
+        {
+          "name": "sounds/custom/suicide",
+          "volume": 1.0,
+          "load_on_low_memory": true,
+          "stream": true
+        }
+      ]
+    },
+    "custom.solucao": {
+      "category": "music",
+      "__use_legacy_max_distance": "true",
+      "max_distance": 500,
+      "min_distance": 1,
+      "sounds": [
+        {
+          "name": "sounds/custom/solucao",
+          "volume": 1.0,
+          "load_on_low_memory": true,
+          "stream": true
+        }
+      ]
+    }
+  }
+}
