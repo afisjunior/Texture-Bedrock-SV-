@@ -4,7 +4,7 @@
     "custom.cgfive": {
       "category": "music",
       "__use_legacy_max_distance": "true",
-      "max_distance": 500,
+      "max_distance": 1000,
       "min_distance": 1,
       "sounds": [
         {
@@ -18,7 +18,7 @@
     "custom.pressure": {
       "category": "music",
       "__use_legacy_max_distance": "true",
-      "max_distance": 500,
+      "max_distance": 1000,
       "min_distance": 1,
       "sounds": [
         {
@@ -32,7 +32,7 @@
     "custom.spooky": {
       "category": "music",
       "__use_legacy_max_distance": "true",
-      "max_distance": 500,
+      "max_distance": 1000,
       "min_distance": 1,
       "sounds": [
         {
@@ -46,7 +46,7 @@
     "custom.festa": {
       "category": "music",
       "__use_legacy_max_distance": "true",
-      "max_distance": 500,
+      "max_distance": 1000,
       "min_distance": 1,
       "sounds": [
         {
@@ -60,7 +60,7 @@
     "custom.alone": {
       "category": "music",
       "__use_legacy_max_distance": "true",
-      "max_distance": 500,
+      "max_distance": 1000,
       "min_distance": 1,
       "sounds": [
         {
@@ -74,7 +74,7 @@
     "custom.apt": {
       "category": "music",
       "__use_legacy_max_distance": "true",
-      "max_distance": 500,
+      "max_distance": 1000,
       "min_distance": 1,
       "sounds": [
         {
@@ -88,7 +88,7 @@
     "custom.oh": {
       "category": "music",
       "__use_legacy_max_distance": "true",
-      "max_distance": 500,
+      "max_distance": 1000,
       "min_distance": 1,
       "sounds": [
         {
@@ -102,7 +102,7 @@
     "custom.lastb": {
       "category": "music",
       "__use_legacy_max_distance": "true",
-      "max_distance": 500,
+      "max_distance": 1000,
       "min_distance": 1,
       "sounds": [
         {
@@ -116,7 +116,7 @@
     "custom.grimm": {
       "category": "music",
       "__use_legacy_max_distance": "true",
-      "max_distance": 500,
+      "max_distance": 1000,
       "min_distance": 1,
       "sounds": [
         {
@@ -130,7 +130,7 @@
     "custom.gods": {
       "category": "music",
       "__use_legacy_max_distance": "true",
-      "max_distance": 500,
+      "max_distance": 1000,
       "min_distance": 1,
       "sounds": [
         {
@@ -144,7 +144,7 @@
     "custom.bik": {
       "category": "music",
       "__use_legacy_max_distance": "true",
-      "max_distance": 500,
+      "max_distance": 1000,
       "min_distance": 1,
       "sounds": [
         {
@@ -158,7 +158,7 @@
     "custom.suicide": {
       "category": "music",
       "__use_legacy_max_distance": "true",
-      "max_distance": 500,
+      "max_distance": 1000,
       "min_distance": 1,
       "sounds": [
         {
@@ -172,11 +172,25 @@
     "custom.solucao": {
       "category": "music",
       "__use_legacy_max_distance": "true",
-      "max_distance": 500,
+      "max_distance": 1000,
       "min_distance": 1,
       "sounds": [
         {
           "name": "sounds/custom/solucao",
+          "volume": 1.0,
+          "load_on_low_memory": true,
+          "stream": true
+        }
+      ]
+    },
+    "custom.porto": {
+      "category": "music",
+      "__use_legacy_max_distance": "true",
+      "max_distance": 1000,
+      "min_distance": 1,
+      "sounds": [
+        {
+          "name": "sounds/custom/porto",
           "volume": 1.0,
           "load_on_low_memory": true,
           "stream": true
