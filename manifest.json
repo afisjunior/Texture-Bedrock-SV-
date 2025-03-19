@@ -5,7 +5,7 @@
        "name": "Music Personalizadas -  1.21.x",
        "uuid": "8d572bed-69e5-4bb9-91d7-9abe5fa4291e",
        "version": [1, 1, 1],
-       "min_engine_version": [1, 17, 0]
+       "min_engine_version": [1, 21, 0]
   },
   "modules": [
        {
